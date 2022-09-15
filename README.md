@@ -1,4 +1,4 @@
-# ¡Hola!, Mi nombre es Cristian Mora 👋
+# <img src='https://gifimage.net/wp-content/uploads/2018/11/hi-emoji-gif-5.gif' alt='hi' height='30'>¡Hola!, Mi nombre es Cristian Mora 👋
 ## _FullStack Developer_ 💻
 
 
