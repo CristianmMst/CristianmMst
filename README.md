@@ -16,7 +16,8 @@ Soy Full-Stack Web Developer. Me siento cómodo trabajando en Front-end y en Bac
 - NODEJS
 - EXPRESS
 - POSTGRESQL
-<img src='./logos/javascript.svg' alt='javascript' height='40'> <img src='./logos/react.svg' alt='react' height='40'> <img src='./logos/redux.svg' alt='redux' height='40'> <img src='./logos/sass.svg' alt='sass' height='40'> <img src='./logos/bootstrap.svg' alt='bootstrap' height='40'> <img src='./logos/postgres.svg' alt='postgresql' height='40'>
+
+<img src='./logos/javascript.svg' alt='javascript' height='40'> <img src='./logos/react.svg' alt='react' height='40'> <img src='./logos/redux.svg' alt='redux' height='40'> <img src='./logos/sass.svg' alt='sass' height='40'> <img src='./logos/bootstrap.svg' alt='bootstrap' height='40'> <img src='./logos/postgresql.svg' alt='postgresql' height='40'>
 
 ## Contáctame
 
