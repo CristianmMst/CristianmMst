@@ -7,6 +7,7 @@ Soy Full-Stack Web Developer. Me siento cómodo trabajando en Front-end y en Bac
 - CSS
 - SASS
 - BOOTSTRAP
+- JAVASCRIPT
 - REACTJS
 - REDUX
 - NODEJS
