@@ -17,7 +17,7 @@ Soy Full-Stack Web Developer. Me siento cómodo trabajando en Front-end y en Bac
 
 Contactame:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CristianmMst) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cristian-mora-6342a4248//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cristian-mora-6342a4248//)
 
 
 
