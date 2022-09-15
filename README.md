@@ -3,6 +3,16 @@
 #### I am GitHub Readme Generator's creator
 Soy Full-Stack Web Developer. Me siento cómodo trabajando en Front-end y en Back-end. Experimentado en crear aplicaciones web probando distintas herramientas para el desarrollo y solución de problemas. Trabajo con: Html, CSS, JavaScript, Postgres, Git.  Frameworks y CMS: ReactJS, React Native, Express, Bootstrap, Material UI. Siempre dispuesto a aprender nuevas herramientas y soluciones.
 
+- HTML
+- CSS
+- SASS
+- BOOTSTRAP
+- REACTJS
+- REDUX
+- NODEJS
+- EXPRESS
+- POSTGRESQL
+
 Habilidades: VUE JS / REACT / JS / HTML / CSS
 
 
