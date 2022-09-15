@@ -23,4 +23,4 @@ Soy Full-Stack Web Developer. Me siento cómodo trabajando en Front-end y en Bac
 
 Correo Electrónico: cristianmmst@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cristian-mora-6342a4248//)
+[<img src='./logos/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cristian-mora-6342a4248//)
