@@ -17,4 +17,4 @@
 
 Correo Electrónico: cristianmmst@gmail.com
 
-[<img src='./logos/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cristian-mora-6342a4248//)
+[<img src='./logos/linkedin.svg' alt='linkedin' height='40'>]
